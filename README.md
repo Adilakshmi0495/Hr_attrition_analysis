@@ -148,7 +148,7 @@ This dashboard helps HR teams quickly identify attrition patterns and supports s
 
 
 
-\[Your Name]
+\[Adilakshmi Vemala]
 
 
 
