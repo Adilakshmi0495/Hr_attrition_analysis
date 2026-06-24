@@ -132,7 +132,8 @@ Apply conditional formatting for KPIs
 
 
 
-(You can paste your screenshot here)
+(<img width="1352" height="751" alt="Screenshot 2026-06-24 122922" src="https://github.com/user-attachments/assets/683fce00-9063-4ed4-b16e-65070ef2e719" />
+)
 
 
 
